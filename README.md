@@ -1,10 +1,10 @@
 # Welcome!
 > Hi there! im i1470s.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+⚫ I love to code! pythons my main lang but im more then capable in HTML
 
-![](welcome.png)
+⚫ Currently learning java script!
+
+⚫ Check out my repos!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=i1470s&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
