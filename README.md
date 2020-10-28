@@ -1,11 +1,13 @@
 # Welcome!
 > Hi there! im i1470s. The founder of IVRY a small group of coders learning 😈
 
-⚫ I love to code! pythons my main lang but im more then capable in HTML
+⚫ I love to code! pythons my main language but im more then capable in HTML
 
-⚫ Currently learning java script!
+⚫ Currently learning C#!
 
-⚫ Check out my repos!
+⚫ Check out my repos! 
+
+⚫ Anything archived will not recive support!
 
 ⚫ Most of my craps open source 
 
