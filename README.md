@@ -19,6 +19,8 @@
 # Current Projects
 
 > Ash my python IDE
+> IVRY Discord Bot
+> IVRY API
 
 # My Stats
 
