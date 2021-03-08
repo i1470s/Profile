@@ -13,7 +13,6 @@
 ⚫ Question? just message me!
 
 ⚠️ Any programs i have provided that just so happen to be "on the line of illegal" we are not responsible for your actions with said programs, me, us(IVRY, Team IVRY) are not responsible for what you do with it :P
-
 ##
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=i1470s&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
