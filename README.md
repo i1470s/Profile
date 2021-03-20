@@ -20,7 +20,7 @@
 
 > Ash my python IDE
 
-> IVRY API/ Website
+> IVRY API / Website
 
 # My Stats
 
