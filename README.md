@@ -20,9 +20,7 @@
 
 > Ash my python IDE
 
-> IVRY Discord Bot
-
-> IVRY API
+> IVRY API/ Website
 
 # My Stats
 
