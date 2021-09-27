@@ -4,7 +4,7 @@
 
 ⚫ I love to code! pythons my main language but im more then capable in HTML
 
-⚫ Currently learning C#!
+⚫ Currently learning C#, C++
 
 ⚫ Check out my repos! 
 
