@@ -18,8 +18,6 @@
 
 # Current Projects
 
-> Ash my python IDE
-
 > IVRY API / Website
 
 # My Stats
