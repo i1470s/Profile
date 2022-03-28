@@ -2,7 +2,7 @@
 <h3 align="center">Im a developer exploring the world of code more and more everyday.</h3>
 
 > Issue?
-Contant me below and ill be sure to get back to you.
+Contact me below and ill be sure to get back to you.
 
 > contact@ivry.tk - Work or
 > brayden@ivry.tk - Personal
