@@ -4,8 +4,8 @@
 > Issue?
 Contact me below and ill be sure to get back to you.
 
-> contact@ivry.tk - Work or
-> brayden@ivry.tk - Personal
+> contact@ivrynetwork.ca - Work or
+> braydenviana@gmail.com - Personal
 
 
 # About Me 
